@@ -6,7 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group #22
+
+Aly Asad Gilani, 2547875
+
+Syed Ebad Hyder, 2547164
 
 
 .. toctree::
